@@ -1,0 +1,24 @@
+
+
+
+@media screen and (min-width: 768px){
+	body {
+	border:5px solid black;
+	}
+
+	section{
+		width: 68%;
+		display: inline-block;
+		margin-right: 0.3em;
+	}
+
+	aside{
+		display: inline-block;
+		vertical-align: top;
+		width: 30%;
+	}
+	#contenedor{
+		max-width: 1200px;
+		margin: 0 auto;
+	}
+}
